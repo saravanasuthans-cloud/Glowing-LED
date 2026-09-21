@@ -31,7 +31,7 @@ A simple LED circuit constructed on a breadboard using an LED, resistor, connect
 
 ![](IMG-20260921-WA0000.jpg)
 
-![][image2]
+![](IMG-20260921-WA0001.jpg)
 
 # **Notes**
 
